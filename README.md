@@ -14,3 +14,5 @@ Welcome to CESA Git Workshop activity.
 - The **business** branch task is to upload 4 different excel files to the business branch and make a pull request to merge with master.
 
 **BE SURE TO USE "git checkout" AND DO NOT COMMIT ON THE master BRANCH!**
+
+## DOWNLOAD THE PRESENTATION FILE FROM (HERE)[https://github.com/theAmouie/cesa-git-workshop/blob/master/presentation.pdf]
