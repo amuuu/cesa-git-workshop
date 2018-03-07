@@ -15,4 +15,4 @@ Welcome to CESA Git Workshop activity.
 
 **BE SURE TO USE "git checkout" AND DO NOT COMMIT ON THE master BRANCH!**
 
-## DOWNLOAD THE PRESENTATION FILE FROM (HERE)[https://github.com/theAmouie/cesa-git-workshop/blob/master/presentation.pdf]
+## DOWNLOAD THE PRESENTATION FILE FROM HERE: https://github.com/theAmouie/cesa-git-workshop/blob/master/presentation.pdf
