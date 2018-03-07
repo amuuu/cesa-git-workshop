@@ -1,8 +1,8 @@
 # CESA GIT WORKSHOP
 Welcome to CESA Git Workshop activity.
 
-- In this activity, you will be grouped in teams with 5 members.
-- There are **3** branches in this repo. The branches' names are **frontend**, **backend**, **design**, **business**, and **master**.
+- In this activity, you will be grouped in teams with 3 members.
+- There are **5** branches in this repo. The branches' names are **frontend**, **backend**, **design**, **business**, and **master**.
 - The master branch is for me myself.
 - Each group of people should be assigned to one branch.
 
